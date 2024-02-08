@@ -1,6 +1,6 @@
 '''
 Instituição: FIAP
-Turma: 1TDG
+Turma: 1TDCG
 Integrantes do Grupo:
 Danilo da Gama Campos
 Eduardo do Nascimento Silva
